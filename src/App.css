@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Comfortaa', cursive;
+  background-color: #FFEC5C;
+}
+
+/* SCROLL BAR THEME */
+body::-webkit-scrollbar {
+  width: 10px;
+  background-color: #44803F;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #FF5A33;
+  /* border-radius: 5px; */
+}
+
